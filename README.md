@@ -1,2 +1,2 @@
 # KaggleCompetitions
-Nesse repositório estão os notbooks que desenvolvi para as competições do Kaggle.
+Nesse repositório estão os notebooks que desenvolvi para as competições do Kaggle.
